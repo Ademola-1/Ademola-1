@@ -28,10 +28,10 @@ I help businesses make smarter decisions by designing data models, preparing cle
 🔹 [**modern-sql-data-warehouse**](https://github.com/Ademola-1/modern-sql-data-warehouse)  
 *Built a SQL Server-based data model and ETL workflows to prepare clean, analytics-ready data for Power BI dashboards.*  
 
-🔹 [**Alchemist Retail**](https://github.com/Ademola-1/alchemist-retail)  
+🔹 [**Shopsmart**](https://github.com/Ademola-1/shopsmart_sqlserver)  
 *Retail analytics solution highlighting sales performance, customer segmentation, and executive-ready dashboards.*  
 
-🔹 [**AgriSense**](https://github.com/Ademola-1/agrisense)  
+🔹 [**AgriSense**](https://github.com/Ademola-1/AgriSense_Project)  
 *Agriculture analytics dashboard providing yield forecasts, price trend monitoring, and insights for decision-makers.*  
 
 ---
