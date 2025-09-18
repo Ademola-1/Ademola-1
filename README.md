@@ -25,14 +25,14 @@ I help businesses make smarter decisions by designing data models, preparing cle
 
 ## 📂 Featured Projects  
 
-🔹 [**modern-sql-data-warehouse**](https://github.com/Ademola-1/modern-sql-data-warehouse)  
-*Built a SQL Server-based data model and ETL workflows to prepare clean, analytics-ready data for Power BI dashboards.*  
-
 🔹 [**Shopsmart**](https://github.com/Ademola-1/shopsmart-sqlserver)  
 *Retail analytics solution highlighting sales performance, customer segmentation, and executive-ready dashboards.*  
 
 🔹 [**AgriSense**](https://github.com/Ademola-1/AgriSense_Project)  
 *Agriculture analytics dashboard providing yield forecasts, price trend monitoring, and insights for decision-makers.*  
+
+🔹 [**modern-sql-data-warehouse**](https://github.com/Ademola-1/modern-sql-data-warehouse)  
+*Built a SQL Server-based data model and ETL workflows to prepare clean, analytics-ready data for Power BI dashboards.*  
 
 ---
 
